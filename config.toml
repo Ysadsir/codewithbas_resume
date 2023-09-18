@@ -132,7 +132,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
 
     [params.summary]
         enable = true
-        text = ""Après mes années en tant que chef de projet, je veux revenir vers la technique. Je suis en pleine montée en compétences des outils nécessaires pour le poste de DevOps. Mon passé professionnel est un plus pour appréhender les enjeux et les contraintes de tout le processus de création d’un logiciel.""
+        text = "Après mes années en tant que chef de projet, je veux revenir vers la technique. Je suis en pleine montée en compétences des outils nécessaires pour le poste de DevOps. Mon passé professionnel est un plus pour appréhender les enjeux et les contraintes de tout le processus de création d’un logiciel."
 
 
     [params.experience]
@@ -211,5 +211,5 @@ googleAnalytics = "UA-XXXXXXX-Y"
         icon = "fab fa-linkedin"
         url = "https://www.linkedin.com/in/yves-guillaume-herve/"
         title = "/in/ygherve"
-        [[params.social.list]]
+
 
