@@ -44,16 +44,6 @@ googleAnalytics = "UA-XXXXXXX-Y"
         [[params.skills.list]]
         title = "IaC"
         text = "Terraform"
-        title = "Monitoring"
-        text = "Prometheus"
-        title = "CI / CD"
-        text = "Gitlab pipeline"
-        title = "Versioning"
-        text = "Git"
-        title = "Security"
-        text = "Fail2ban"
-        title = "Database"
-        text = "MongoDB"
 
 
         [[params.skills.list]]
