@@ -116,7 +116,6 @@ googleAnalytics = "UA-XXXXXXX-Y"
         details = "Déploiement d’un site de consultation de news"
         [[params.experience.list.items]]
         details = "Mettre en place l’infra, la CI / CD, la sécurité, le monitoring, le backup de base de données"
-        details = "Logiciels : Terraform, Ansible, K8s, Docker, AWS, Gitlab, Jest, Locust, SonarQube, Fail2ban, Let’s Encrypt, Prometheus, Grafana, Bash, Crongold, MongoDB"
 
         [[params.experience.list]]
         title = "Chef de projet informatique"
@@ -125,7 +124,6 @@ googleAnalytics = "UA-XXXXXXX-Y"
         details = "ERP en mode Saas"
         [[params.experience.list.items]]
         details = "Gérer des équipes (10 à 15 personnes), animer les échanges client Indexia Group (Assurance affinitaire), gérer le suivi des projets"
-        details = "Logiciels : PHP, Redmine"
 
         [[params.experience.list]]
         title = "Développeur logiciel / Chef de projet informatique"
@@ -134,7 +132,6 @@ googleAnalytics = "UA-XXXXXXX-Y"
         details = "Progiciel de gestion de diagnostics immobiliers"
         [[params.experience.list.items]]
         details = "Gérer une équipe (3 à 5 personnes), animer les échanges client, gérer le suivi du projet"
-        details = "Logiciels : C#, SQL Azure DevOps Server"
 
         [[params.experience.list]]
         title = "Développeur logiciel"
@@ -142,8 +139,6 @@ googleAnalytics = "UA-XXXXXXX-Y"
         company = "SODIFRANCE"
         [[params.experience.list.items]]
         details = "Tesson informatique : progiciel de gestion de magasins non alimentaires (VB6, SQL Server)"
-        details = "Yves Rocher : Gestion de panélistes (VB.net, SQL Server)"
-        details = "Equant : TMA SATIN (gestion de prise de commande) (asp.net, Oracle)"
 
 
 
