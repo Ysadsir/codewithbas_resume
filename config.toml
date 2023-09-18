@@ -7,35 +7,34 @@ enableGitInfo = false
 googleAnalytics = "UA-XXXXXXX-Y"
 
 [params]
-    author = "John Doe"
-    description = "Demo Resume"
+    author = "Yves-Guillaume HERVE"
+    description = "Après mes années en tant que chef de projet, je veux revenir vers la technique. Je suis en pleine montée en compétences des outils nécessaires pour le poste de DevOps. Mon passé professionnel est un plus pour appréhender les enjeux et les contraintes de tout le processus de création d’un logiciel."
     og_image = "better-software.png"
-    twitterName = "@bascodes"
-    ghRepo = "https://github.com/codewithbas/resume/"
+    ghRepo = "https://github.com/Ysadsir/codewithbas_resume"
     hugoRepo = "https://github.com/gohugoio/hugo/"
 
     [params.profile]
         enable = true
-        name = "John Doe"
-        tagline = "Demo Resume"
-        avatar = "bas-steins-2.jpg"
+        name = "Yves-Guillaume HERVE"
+        tagline = "DevOps"
+        avatar = "photo.png"
 
     [params.contact]
         enable = true
 
-        location = "Somewhere in the world"
+        location = "France"
 
         [[params.contact.list]]
         icon = "fas fa-phone-square"
-        url = "tel:"
-        text = "confidential"
+        url = "tel:+33671174861"
+        text = "+33671174861"
         [[params.contact.list]]
         icon = "fas fa-envelope-square"
-        url = "mailto:mail@example.org"
-        text = "mail@example.org"
+        url = "mailto:yg.herve@gmail.com"
+        text = "yg.herve@gmail.com"
         [[params.contact.list]]
         icon = "fas fa-globe"
-        url = "https://bas.bio"
+        url = "https://linktr.ee/ygherve"
         text = "My links on the web"
 
 
@@ -43,40 +42,84 @@ googleAnalytics = "UA-XXXXXXX-Y"
         enable = true
 
         [[params.skills.list]]
-        title = "Python"
-        [[params.skills.list]]
-        title = "Lua"
-        [[params.skills.list]]
-        title = "LISP"
+        title = "IaC"
+        text = "Terraform"
+        text = "AWS"
+        text = "GCP"
+        text = "Ansible"
+        text = "Docker"
+        text = "K8s"
+        title = "Monitoring"
+        text = "Prometheus"
+        text = "Grafana"
+        title = "CI / CD"
+        text = "Gitlab pipeline"
+        text = "Jest"
+        text = "Locust"
+        text = "SonarQube"
+        text = "Cypress"
+        title = "Versioning"
+        text = "Git"
+        text = "Jira"
+        title = "Security"
+        text = "Fail2ban"
+        text = "Let’s Encrypt"
+        text = "Ufw"
+        title = "Database"
+        text = "MongoDB"
+        text = "Posgresql"
+        text = "MariaDB"
 
 
+        [[params.skills.list]]
+        title = "Professionelles"
+        text = "Ouverture d’esprit"
+        text = "Esprit d’équipe"
+        text = "Empathie"
+        text = "sérieux"
+        text = "écoute"
+        text = "travailleur"
+        
     [params.education]
         enable = true
 
         [[params.education.list]]
-        degree = "Master of Desaster"
-        university = "University of Life"
-        dates = "1990-present"
+        degree = "DUT GEA"
+        university = "IUT – VANNES"
+        dates = "1993-1995"
 
+        [[params.education.list]]
+        degree = "Informatique de gestion"
+        university = "AFPA – CRETEIL"
+        dates = "1998-1999"
+
+        [[params.education.list]]
+        degree = "Administrateur Système DevOps"
+        university = "LA CAPSULE"
+        dates = "2023"
 
     [params.awards]
         enable = true
 
         [[params.awards.list]]
-        name = "Professional Scrum Master™ I"
-        body = "scrum.org"
-        date = "2018"
+        name = "Certified System Admin (LFCS)"
+        body = "LINUX FOUDATION"
+        date = "2023"
 
+        [[params.awards.list]]
+        name = "Certified Kubernetes Admin (CKA)"
+        body = "CNCF"
+        date = "2023"
 
     [params.languages]
         enable = true
 
         [[params.languages.list]]
-        name = "Klingon"
-        level = "Fluent"
+        name = "English"
+        level = "Read"
 
         [[params.languages.list]]
-        name = "English"
+        name = "French"
         level = "Fluent"
 
 
@@ -84,29 +127,57 @@ googleAnalytics = "UA-XXXXXXX-Y"
         enable = true
 
         [[params.interests.list]]
-        name = "Counting Sheeps"
+        name = "Roller"
 
 
     [params.summary]
         enable = true
-        text = "I am the 10 eggs developer you are looking for."
+        text = ""Après mes années en tant que chef de projet, je veux revenir vers la technique. Je suis en pleine montée en compétences des outils nécessaires pour le poste de DevOps. Mon passé professionnel est un plus pour appréhender les enjeux et les contraintes de tout le processus de création d’un logiciel.""
 
 
     [params.experience]
         enable = true
 
         [[params.experience.list]]
-        title = "Intern"
-        dates = "2000 - Present"
-        company = "Compuglobal Hyper Mega Net"
-        details = "Increased the baudrate for comic book guy"
+        title = "DevOps"
+        dates = "2023"
+        company = "La Capsule"
+        details = "Déploiement d’un site de consultation de news"
         [[params.experience.list.items]]
-        details = "Took buttery notes"
+        details = "Mettre en place l’infra, la CI / CD, la sécurité, le monitoring, le backup de base de données"
+        details = "Logiciels : Terraform, Ansible, K8s, Docker, AWS, Gitlab, Jest, Locust, SonarQube, Fail2ban, Let’s Encrypt, Prometheus, Grafana, Bash, Crongold, MongoDB"
+
+        [[params.experience.list]]
+        title = "Chef de projet informatique"
+        dates = "2017 – 2023"
+        company = "B-appli Studio"
+        details = "ERP en mode Saas"
+        [[params.experience.list.items]]
+        details = "Gérer des équipes (10 à 15 personnes), animer les échanges client Indexia Group (Assurance affinitaire), gérer le suivi des projets"
+        details = "Logiciels : PHP, Redmine"
+
+        [[params.experience.list]]
+        title = "Développeur logiciel / Chef de projet informatique"
+        dates = "2006 – 2017"
+        company = "ITGA"
+        details = "Progiciel de gestion de diagnostics immobiliers"
+        [[params.experience.list.items]]
+        details = "Gérer une équipe (3 à 5 personnes), animer les échanges client, gérer le suivi du projet"
+        details = "Logiciels : C#, SQL Azure DevOps Server"
+
+        [[params.experience.list]]
+        title = "Développeur logiciel"
+        dates = "1999 – 2006"
+        company = "SODIFRANCE"
+        [[params.experience.list.items]]
+        details = "Tesson informatique : progiciel de gestion de magasins non alimentaires (VB6, SQL Server)"
+        details = "Yves Rocher : Gestion de panélistes (VB.net, SQL Server)"
+        details = "Equant : TMA SATIN (gestion de prise de commande) (asp.net, Oracle)"
 
 
 
     [params.projects]
-        enable = true
+        enable = false
 
         [[params.projects.list]]
         title = "This Resume"
@@ -134,13 +205,11 @@ googleAnalytics = "UA-XXXXXXX-Y"
 
         [[params.social.list]]
         icon = "fab fa-github-square"
-        url = "https://github.com/codewithbas"
-        title = "/codewithbas"
+        url = "https://github.com/Ysadsir"
+        title = "/ysadsir"
         [[params.social.list]]
         icon = "fab fa-linkedin"
-        url = "https://linkedin.com/in/bascodes"
-        title = "/in/bascodes"
+        url = "https://www.linkedin.com/in/yves-guillaume-herve/"
+        title = "/in/ygherve"
         [[params.social.list]]
-        icon = "fab fa-twitter-square"
-        url = "https://twitter.com/bascodes"
-        title = "@bascodes"
+
