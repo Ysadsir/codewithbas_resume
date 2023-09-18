@@ -44,41 +44,22 @@ googleAnalytics = "UA-XXXXXXX-Y"
         [[params.skills.list]]
         title = "IaC"
         text = "Terraform"
-        text = "AWS"
-        text = "GCP"
-        text = "Ansible"
-        text = "Docker"
-        text = "K8s"
         title = "Monitoring"
         text = "Prometheus"
-        text = "Grafana"
         title = "CI / CD"
         text = "Gitlab pipeline"
-        text = "Jest"
-        text = "Locust"
-        text = "SonarQube"
-        text = "Cypress"
         title = "Versioning"
         text = "Git"
-        text = "Jira"
         title = "Security"
         text = "Fail2ban"
-        text = "Let’s Encrypt"
-        text = "Ufw"
         title = "Database"
         text = "MongoDB"
-        text = "Posgresql"
-        text = "MariaDB"
 
 
         [[params.skills.list]]
         title = "Professionelles"
         text = "Ouverture d’esprit"
-        text = "Esprit d’équipe"
-        text = "Empathie"
-        text = "sérieux"
-        text = "écoute"
-        text = "travailleur"
+
         
     [params.education]
         enable = true
