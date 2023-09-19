@@ -1,6 +1,6 @@
 # Page settings
 
-baseURL = "https://resume-demo.bas.work/"
+# baseURL = "https://resume-demo.bas.work/"
 languageCode = "en"
 title = "YG Herve"
 enableGitInfo = false
@@ -9,7 +9,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
 [params]
     author = "Yves-Guillaume HERVE"
     description = "Après mes années en tant que chef de projet, je veux revenir vers la technique. Je suis en pleine montée en compétences des outils nécessaires pour le poste de DevOps. Mon passé professionnel est un plus pour appréhender les enjeux et les contraintes de tout le processus de création d’un logiciel."
-    og_image = "better-software.png"
+#     og_image = "better-software.png"
     ghRepo = "https://github.com/Ysadsir/codewithbas_resume"
     hugoRepo = "https://github.com/gohugoio/hugo/"
 
