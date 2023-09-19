@@ -45,94 +45,43 @@ googleAnalytics = "UA-XXXXXXX-Y"
         title = "IaC"
 
         [[params.skills.list.items]]
-        details = "Terraform"
-
-        [[params.skills.list.items]]
-        details = "Ansible"
-        
-        [[params.skills.list.items]]
-        details = "Docker"
-
-        [[params.skills.list.items]]
-        details = "Kubernetes"
+        details = "Terraform, Ansible, Docker, Kubernetes"
 
         [[params.skills.list]]
         title = "Monitoring"
 
         [[params.skills.list.items]]
-        details = "Prometheus"
-
-        [[params.skills.list.items]]
-        details = "Grafana"
+        details = "Prometheus, Grafana"
 
         [[params.skills.list]]
         title = "CI / CD"
 
         [[params.skills.list.items]]
-        details = "Gitlab pipeline"
-
-        [[params.skills.list.items]]
-        details = "Jest"
-
-        [[params.skills.list.items]]
-        details = "Locust"
-
-        [[params.skills.list.items]]
-        details = "SonarQube"
-
-        [[params.skills.list.items]]
-        details = "Cypress"
+        details = "Gitlab pipeline, Jest, Locust, SonarQube, Cypress"
 
         [[params.skills.list]]
         title = "Versioning"
 
         [[params.skills.list.items]]
-        details = "Git"
-
-        [[params.skills.list.items]]
-        details = "Jira"
+        details = "Git, Jira"
 
         [[params.skills.list]]
         title = "Security"
 
         [[params.skills.list.items]]
-        details = "Fail2ban"
-
-        [[params.skills.list.items]]
-        details = "Let’s Encrypt"
-
-        [[params.skills.list.items]]
-        details = "Ufw"
+        details = "Fail2ban, Let’s Encrypt, Ufw"
  
         [[params.skills.list]]
         title = "Database"
 
         [[params.skills.list.items]]
-        details = "MongoDB"
-
-        [[params.skills.list.items]]
-        details = "Posgresql"
-
-        [[params.skills.list.items]]
-        details = "MariaDB"
+        details = "MongoDB, Posgresql, MariaDB"
         
         [[params.skills.list]]
         title = "Professionelles"
 
         [[params.skills.list.items]]
-        details = "Ouverture d’esprit"
-
-        [[params.skills.list.items]]
-        details = "Esprit d’équipe"
-
-        [[params.skills.list.items]]
-        details = "Empathie"
-
-        [[params.skills.list.items]]
-        details = "Sérieux"
-
-        [[params.skills.list.items]]
-        details = "Ecoute"
+        details = "Ouverture d’esprit, Esprit d’équipe, Empathie, Sérieux, Ecoute"
         
     [params.education]
         enable = true
