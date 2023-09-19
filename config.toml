@@ -47,13 +47,13 @@ googleAnalytics = "UA-XXXXXXX-Y"
         [[params.skills.list.items]]
         details = "Terraform"
 
-        [[params.information.list.items]]
+        [[params.skills.list.items]]
         details = "Ansible"
         
-        [[params.information.list.items]]
+        [[params.skills.list.items]]
         details = "Docker"
 
-        [[params.information.list.items]]
+        [[params.skills.list.items]]
         details = "Kubernetes"
 
         [[params.skills.list]]
@@ -119,19 +119,19 @@ googleAnalytics = "UA-XXXXXXX-Y"
         [[params.skills.list]]
         title = "Professionelles"
 
-        [[params.information.list.items]]
+        [[params.skills.list.items]]
         details = "Ouverture d’esprit"
 
-        [[params.information.list.items]]
+        [[params.skills.list.items]]
         details = "Esprit d’équipe"
 
-        [[params.information.list.items]]
+        [[params.skills.list.items]]
         details = "Empathie"
 
-        [[params.information.list.items]]
+        [[params.skills.list.items]]
         details = "Sérieux"
 
-        [[params.information.list.items]]
+        [[params.skills.list.items]]
         details = "Ecoute"
         
     [params.education]
