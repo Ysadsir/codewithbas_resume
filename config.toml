@@ -46,13 +46,93 @@ googleAnalytics = "UA-XXXXXXX-Y"
 
         [[params.skills.list.items]]
         details = "Terraform"
-        details = "Ansible"
 
+        [[params.information.list.items]]
+        details = "Ansible"
+        
+        [[params.information.list.items]]
+        details = "Docker"
+
+        [[params.information.list.items]]
+        details = "Kubernetes"
 
         [[params.skills.list]]
-        title = "Professionelles"
-        text = "Ouverture d’esprit"
+        title = "Monitoring"
 
+        [[params.skills.list.items]]
+        details = "Prometheus"
+
+        [[params.skills.list.items]]
+        details = "Grafana"
+
+        [[params.skills.list]]
+        title = "CI / CD"
+
+        [[params.skills.list.items]]
+        details = "Gitlab pipeline"
+
+        [[params.skills.list.items]]
+        details = "Jest"
+
+        [[params.skills.list.items]]
+        details = "Locust"
+
+        [[params.skills.list.items]]
+        details = "SonarQube"
+
+        [[params.skills.list.items]]
+        details = "Cypress"
+
+        [[params.skills.list]]
+        title = "Versioning"
+
+        [[params.skills.list.items]]
+        details = "Git"
+
+        [[params.skills.list.items]]
+        details = "Jira"
+
+        [[params.skills.list]]
+        title = "Security"
+
+        [[params.skills.list.items]]
+        details = "Fail2ban"
+
+        [[params.skills.list.items]]
+        details = "Let’s Encrypt"
+
+        [[params.skills.list.items]]
+        details = "Ufw"
+ 
+        [[params.skills.list]]
+        title = "Database"
+
+        [[params.skills.list.items]]
+        details = "MongoDB"
+
+        [[params.skills.list.items]]
+        details = "Posgresql"
+
+        [[params.skills.list.items]]
+        details = "MariaDB"
+        
+        [[params.skills.list]]
+        title = "Professionelles"
+
+        [[params.information.list.items]]
+        details = "Ouverture d’esprit"
+
+        [[params.information.list.items]]
+        details = "Esprit d’équipe"
+
+        [[params.information.list.items]]
+        details = "Empathie"
+
+        [[params.information.list.items]]
+        details = "Sérieux"
+
+        [[params.information.list.items]]
+        details = "Ecoute"
         
     [params.education]
         enable = true
