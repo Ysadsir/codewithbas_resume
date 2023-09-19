@@ -183,13 +183,13 @@ googleAnalytics = "UA-XXXXXXX-Y"
         details = "Equant : TMA SATIN (gestion de prise de commande) (asp.net, Oracle)"
 
     [params.projects]
-        enable = false
+        enable = true
 
         [[params.projects.list]]
-        title = "This Resume"
-        meta = "GitHub project"
-        url = "https://github.com/codewithbas/resume"
-        tagline = "A resume with a free PDF generator"
+        title = "Déploiement d'un site web de consultations de news"
+        meta = "GitLab project"
+        url = "https://gitlab.com/mngroup1/morning-news-config"
+        tagline = "Tous les fichiers nécessaires pour déployer le site"
 
 
     [params.information]
