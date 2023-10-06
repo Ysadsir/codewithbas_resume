@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/123d76be-e582-4666-a10c-87ef6f51e31b/deploy-status)](https://app.netlify.com/sites/imaginative-cendol-6f2619/deploys)
+
 # The resume that builds itself
 
 If you want a good looking resume, look no further.
